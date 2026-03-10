@@ -1,3 +1,16 @@
 h1 {
   color: rgb(0, 255, 0);
 }
+.moving-image {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  animation: moveAcross 5s linear alternate infinite;
+}
+@keyframes moveAcross {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100vw);
+  }
