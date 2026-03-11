@@ -14,7 +14,9 @@ h1 {
 @keyframes moveAcross {
   from {
     transform: translateX(-100%);
+    transform: translateY(50%);
   }
   to {
     transform: translateX(100vw);
+    transform: translateY(100vw);
   }
