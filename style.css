@@ -2,7 +2,7 @@ h1 {
   color: rgb(0, 255, 0);
 }
 .moving-image {
-  width: 100%;
+  width: 100px;
   height: auto;
   position: absolute;
   animation: moveAcross 5s linear alternate infinite;
