@@ -1,12 +1,12 @@
 h1 {
   color: rgb(0, 255, 0);
-  font-size: 200px;
+  font-size: 500px;
 }
 .header {
   text-align: center;
 }
 .moving-image {
-  width: 100px;
+  width: 200px;
   height: auto;
   position: absolute;
   animation: moveAcross 3s linear alternate infinite;
