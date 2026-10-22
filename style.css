@@ -9,6 +9,10 @@ h1 {
   color: rgb(0, 255, 0);
   font-size: 50px;
 }
+h3 {
+ color: "#ff0000"; 
+}
+
 .header {
   text-align: center;
 }
