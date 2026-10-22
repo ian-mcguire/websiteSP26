@@ -1,6 +1,10 @@
 body {
   background-color: rgb(120, 100, 50);
 }
+p {
+  color: yellow;
+  font-family: "Comic Sans";
+}
 h1 {
   color: rgb(0, 255, 0);
   font-size: 50px;
